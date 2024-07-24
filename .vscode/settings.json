@@ -9,6 +9,16 @@
             "database": "auctions",
             "username": "postgres",
             "password": "postgrespw"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Identity",
+            "database": "identity",
+            "username": "postgres",
+            "password": "postgrespw"
         }
     ]
 }
